@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WObheek
 - 👀 I’m interested in python programming and bash scripting.
-- 🧪 Currently learning DataScience @Datacamp
+- 🧪 Completed DataScientist Path @Datacamp
+- 🧪 Currenlty learning Flutter (Finding it interesting)
 - 🌱 I’m currently learning datascience and automation & everything others. 😀
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
